@@ -19,6 +19,7 @@
 #ifdef VIA_ENABLE
 /* VIA configuration. */
 #    define DYNAMIC_KEYMAP_LAYER_COUNT 4
+#    define DIODE_DIRECTION COL2ROW
 #endif // VIA_ENABLE
 
 #ifndef __arm__
@@ -35,4 +36,3 @@
 // #define CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_ENABLE
 #endif // POINTING_DEVICE_ENABLE
 
-#define DIODE_DIRECTION COL2ROW
