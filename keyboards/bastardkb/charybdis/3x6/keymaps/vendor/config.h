@@ -19,8 +19,11 @@
 #ifdef VIA_ENABLE
 /* VIA configuration. */
 #    define DYNAMIC_KEYMAP_LAYER_COUNT 4
-#    define DIODE_DIRECTION COL2ROW
 #endif // VIA_ENABLE
+
+#ifndef DIODE_DIRECTION
+#define DIODE_DIRECTION COL2ROW
+#endif
 
 #ifndef __arm__
 /* Disable unused features. */
