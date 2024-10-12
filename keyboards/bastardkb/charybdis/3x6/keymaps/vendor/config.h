@@ -22,7 +22,7 @@
 #endif // VIA_ENABLE
 
 #ifdef DIODE_DIRECTION
-#define DIODE_DIRECTION COL2ROW
+#    define DIODE_DIRECTION COL2ROW
 #endif
 
 #ifndef __arm__
