@@ -21,9 +21,8 @@
 #    define DYNAMIC_KEYMAP_LAYER_COUNT 4
 #endif // VIA_ENABLE
 
-#ifdef DIODE_DIRECTION
-#    define DIODE_DIRECTION COL2ROW
-#endif
+#undef DIODE_DIRECTION
+#define DIODE_DIRECTION COL2ROW
 
 #ifndef __arm__
 /* Disable unused features. */
