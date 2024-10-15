@@ -1,1 +1,2 @@
 VIA_ENABLE = yes
+GRAVE_ESC_ENABLE = yes
