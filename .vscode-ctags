@@ -1,0 +1,196 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+%	Makefile	/^%:$/;"	t
+BSP_NUM	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define BSP_NUM /;"	d	file:
+BSP_NUM	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define BSP_NUM /;"	d	file:
+BSP_NUM	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^#define BSP_NUM /;"	d	file:
+CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_THRESHOLD	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#        define CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_THRESHOLD /;"	d	file:
+CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_THRESHOLD	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^#        define CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_THRESHOLD /;"	d	file:
+CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_THRESHOLD	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^#        define CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_THRESHOLD /;"	d	file:
+CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_TIMEOUT_MS	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#        define CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_TIMEOUT_MS /;"	d	file:
+CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_TIMEOUT_MS	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^#        define CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_TIMEOUT_MS /;"	d	file:
+CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_TIMEOUT_MS	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^#        define CHARYBDIS_AUTO_POINTER_LAYER_TRIGGER_TIMEOUT_MS /;"	d	file:
+CHARYBDIS_AUTO_SNIPING_ON_LAYER	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define CHARYBDIS_AUTO_SNIPING_ON_LAYER /;"	d	file:
+CHARYBDIS_AUTO_SNIPING_ON_LAYER	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^#define CHARYBDIS_AUTO_SNIPING_ON_LAYER /;"	d	file:
+CHARYBDIS_AUTO_SNIPING_ON_LAYER	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^#define CHARYBDIS_AUTO_SNIPING_ON_LAYER /;"	d	file:
+DILEMMA_AUTO_POINTER_LAYER_TRIGGER_THRESHOLD	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#        define DILEMMA_AUTO_POINTER_LAYER_TRIGGER_THRESHOLD /;"	d	file:
+DILEMMA_AUTO_POINTER_LAYER_TRIGGER_TIMEOUT_MS	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#        define DILEMMA_AUTO_POINTER_LAYER_TRIGGER_TIMEOUT_MS /;"	d	file:
+DILEMMA_AUTO_SNIPING_ON_LAYER	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define DILEMMA_AUTO_SNIPING_ON_LAYER /;"	d	file:
+DIODE_DIRECTION	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/config.h	/^#    define DIODE_DIRECTION /;"	d
+DPI_MOD	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#    define DPI_MOD /;"	d	file:
+DPI_MOD	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^#    define DPI_MOD /;"	d	file:
+DPI_MOD	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#    define DPI_MOD /;"	d	file:
+DPI_MOD	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^#    define DPI_MOD /;"	d	file:
+DPI_MOD	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^#    define DPI_MOD /;"	d	file:
+DRGSCRL	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#    define DRGSCRL /;"	d	file:
+DRGSCRL	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^#    define DRGSCRL /;"	d	file:
+DRGSCRL	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#    define DRGSCRL /;"	d	file:
+DRGSCRL	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^#    define DRGSCRL /;"	d	file:
+DRGSCRL	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^#    define DRGSCRL /;"	d	file:
+DYNAMIC_KEYMAP_LAYER_COUNT	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/config.h	/^#    define DYNAMIC_KEYMAP_LAYER_COUNT /;"	d
+DYNAMIC_KEYMAP_LAYER_COUNT	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/config.h	/^#    define DYNAMIC_KEYMAP_LAYER_COUNT /;"	d
+DYNAMIC_KEYMAP_LAYER_COUNT	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/config.h	/^#    define DYNAMIC_KEYMAP_LAYER_COUNT /;"	d
+DYNAMIC_KEYMAP_LAYER_COUNT	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/config.h	/^#    define DYNAMIC_KEYMAP_LAYER_COUNT /;"	d
+DYNAMIC_KEYMAP_LAYER_COUNT	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/config.h	/^#define DYNAMIC_KEYMAP_LAYER_COUNT /;"	d
+DYNAMIC_KEYMAP_LAYER_COUNT	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/config.h	/^#define DYNAMIC_KEYMAP_LAYER_COUNT /;"	d
+ENCODER_MAP_ENABLE	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/rules.mk	/^ENCODER_MAP_ENABLE = yes$/;"	m
+ENCODER_MAP_ENABLE	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/rules.mk	/^ENCODER_MAP_ENABLE = yes$/;"	m
+ENT_SYM	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define ENT_SYM /;"	d	file:
+ENT_SYM	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define ENT_SYM /;"	d	file:
+ENT_SYM	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^#define ENT_SYM /;"	d	file:
+ESC_MED	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define ESC_MED /;"	d	file:
+ESC_MED	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^#define ESC_MED /;"	d	file:
+HOME_ROW_MOD_GACS	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define HOME_ROW_MOD_GACS(/;"	d	file:
+HOME_ROW_MOD_GACS	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define HOME_ROW_MOD_GACS(/;"	d	file:
+LAYER_BASE	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^    LAYER_BASE = 0,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_BASE	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^    LAYER_BASE = 0,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_BASE	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^    LAYER_BASE = 0,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_BASE	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^    LAYER_BASE = 0,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_BASE	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^    LAYER_BASE = 0,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_BASE	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^    LAYER_BASE = 0,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_FUNCTION	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^    LAYER_FUNCTION,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_FUNCTION	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^    LAYER_FUNCTION,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_FUNCTION	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^    LAYER_FUNCTION,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_LOWER	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^    LAYER_LOWER,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_LOWER	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^    LAYER_LOWER,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_LOWER	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^    LAYER_LOWER,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_MEDIA	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^    LAYER_MEDIA,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_MEDIA	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^    LAYER_MEDIA,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_NAVIGATION	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^    LAYER_NAVIGATION,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_NAVIGATION	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^    LAYER_NAVIGATION,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_NAVIGATION	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^    LAYER_NAVIGATION,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_NUMERAL	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^    LAYER_NUMERAL,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_NUMERAL	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^    LAYER_NUMERAL,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_NUMERAL	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^    LAYER_NUMERAL,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_POINTER	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^    LAYER_POINTER,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_POINTER	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^    LAYER_POINTER,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_POINTER	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^    LAYER_POINTER,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_POINTER	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^    LAYER_POINTER,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_POINTER	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^    LAYER_POINTER,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_POINTER	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^    LAYER_POINTER,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_RAISE	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^    LAYER_RAISE,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_RAISE	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^    LAYER_RAISE,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_RAISE	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^    LAYER_RAISE,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_SYMBOLS	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^    LAYER_SYMBOLS,$/;"	e	enum:charybdis_keymap_layers	file:
+LAYER_SYMBOLS	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^    LAYER_SYMBOLS,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYER_SYMBOLS	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^    LAYER_SYMBOLS,$/;"	e	enum:dilemma_keymap_layers	file:
+LAYOUT_LAYER_BASE	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_BASE /;"	d	file:
+LAYOUT_LAYER_BASE	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_BASE /;"	d	file:
+LAYOUT_LAYER_FUNCTION	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_FUNCTION /;"	d	file:
+LAYOUT_LAYER_FUNCTION	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_FUNCTION /;"	d	file:
+LAYOUT_LAYER_MEDIA	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_MEDIA /;"	d	file:
+LAYOUT_LAYER_NAVIGATION	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_NAVIGATION /;"	d	file:
+LAYOUT_LAYER_NAVIGATION	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_NAVIGATION /;"	d	file:
+LAYOUT_LAYER_NUMERAL	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_NUMERAL /;"	d	file:
+LAYOUT_LAYER_NUMERAL	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_NUMERAL /;"	d	file:
+LAYOUT_LAYER_POINTER	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_POINTER /;"	d	file:
+LAYOUT_LAYER_POINTER	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_POINTER /;"	d	file:
+LAYOUT_LAYER_SYMBOLS	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_SYMBOLS /;"	d	file:
+LAYOUT_LAYER_SYMBOLS	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define LAYOUT_LAYER_SYMBOLS /;"	d	file:
+LAYOUT_wrapper	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define LAYOUT_wrapper(/;"	d	file:
+LAYOUT_wrapper	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define LAYOUT_wrapper(/;"	d	file:
+LOWER	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^#define LOWER /;"	d	file:
+LOWER	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^#define LOWER /;"	d	file:
+LOWER	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^#define LOWER /;"	d	file:
+NO_ACTION_ONESHOT	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/config.h	/^#    define NO_ACTION_ONESHOT$/;"	d
+NO_ACTION_ONESHOT	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/config.h	/^#    define NO_ACTION_ONESHOT$/;"	d
+NO_ACTION_ONESHOT	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/config.h	/^#    define NO_ACTION_ONESHOT$/;"	d
+POINTER_MOD	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define POINTER_MOD(/;"	d	file:
+POINTER_MOD	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define POINTER_MOD(/;"	d	file:
+PT_SLSH	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^#define PT_SLSH /;"	d	file:
+PT_SLSH	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^#define PT_SLSH /;"	d	file:
+PT_SLSH	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^#define PT_SLSH /;"	d	file:
+PT_SLSH	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^#define PT_SLSH /;"	d	file:
+PT_Z	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^#define PT_Z /;"	d	file:
+PT_Z	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^#define PT_Z /;"	d	file:
+PT_Z	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^#define PT_Z /;"	d	file:
+PT_Z	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^#define PT_Z /;"	d	file:
+QMK_FIRMWARE_ROOT	Makefile	/^QMK_FIRMWARE_ROOT = $(shell qmk config -ro user.qmk_home | cut -d= -f2 | sed -e 's@^None$$@@g')$/;"	m
+QMK_USERSPACE	Makefile	/^    QMK_USERSPACE := $(shell pwd)$/;"	m
+QMK_USERSPACE	Makefile	/^QMK_USERSPACE := $(patsubst %\/,%,$(dir $(shell realpath "$(lastword $(MAKEFILE_LIST))")))$/;"	m
+RAISE	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^#define RAISE /;"	d	file:
+RAISE	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^#define RAISE /;"	d	file:
+RAISE	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^#define RAISE /;"	d	file:
+SNIPING	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#    define SNIPING /;"	d	file:
+SNIPING	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^#    define SNIPING /;"	d	file:
+SNIPING	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#    define SNIPING /;"	d	file:
+SNIPING	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^#    define SNIPING /;"	d	file:
+SNIPING	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^#    define SNIPING /;"	d	file:
+SPC_NAV	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define SPC_NAV /;"	d	file:
+SPC_NAV	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define SPC_NAV /;"	d	file:
+SPC_NAV	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^#define SPC_NAV /;"	d	file:
+SPLIT_LAYER_STATE_ENABLE	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/config.h	/^#define SPLIT_LAYER_STATE_ENABLE$/;"	d
+SPLIT_LAYER_STATE_ENABLE	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/config.h	/^#define SPLIT_LAYER_STATE_ENABLE$/;"	d
+SPLIT_LED_STATE_ENABLE	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/config.h	/^#define SPLIT_LED_STATE_ENABLE$/;"	d
+SPLIT_LED_STATE_ENABLE	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/config.h	/^#define SPLIT_LED_STATE_ENABLE$/;"	d
+S_D_MOD	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#    define S_D_MOD /;"	d	file:
+S_D_MOD	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^#    define S_D_MOD /;"	d	file:
+S_D_MOD	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#    define S_D_MOD /;"	d	file:
+S_D_MOD	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^#    define S_D_MOD /;"	d	file:
+S_D_MOD	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^#    define S_D_MOD /;"	d	file:
+TAB_FUN	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define TAB_FUN /;"	d	file:
+TAB_FUN	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define TAB_FUN /;"	d	file:
+TAB_FUN	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^#define TAB_FUN /;"	d	file:
+VIA_ENABLE	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/rules.mk	/^VIA_ENABLE = yes$/;"	m
+VIA_ENABLE	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/rules.mk	/^VIA_ENABLE = yes$/;"	m
+VIA_ENABLE	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/rules.mk	/^VIA_ENABLE = yes$/;"	m
+VIA_ENABLE	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/rules.mk	/^VIA_ENABLE = yes$/;"	m
+VIA_ENABLE	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/rules.mk	/^VIA_ENABLE = yes$/;"	m
+VIA_ENABLE	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/rules.mk	/^VIA_ENABLE = yes$/;"	m
+VIA_ENABLE	keyboards/bastardkb/scylla/keymaps/vendor/rules.mk	/^VIA_ENABLE = yes$/;"	m
+VIA_ENABLE	keyboards/bastardkb/skeletyl/keymaps/vendor/rules.mk	/^VIA_ENABLE = yes$/;"	m
+VIA_ENABLE	keyboards/bastardkb/tbkmini/keymaps/vendor/rules.mk	/^VIA_ENABLE = yes$/;"	m
+_HOME_ROW_MOD_GACS	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define _HOME_ROW_MOD_GACS(/;"	d	file:
+_HOME_ROW_MOD_GACS	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define _HOME_ROW_MOD_GACS(/;"	d	file:
+_L_PTR	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define _L_PTR(/;"	d	file:
+_L_PTR	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define _L_PTR(/;"	d	file:
+_POINTER_MOD	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define _POINTER_MOD(/;"	d	file:
+_POINTER_MOD	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define _POINTER_MOD(/;"	d	file:
+______________HOME_ROW_GACS_L______________	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define ______________HOME_ROW_GACS_L______________ /;"	d	file:
+______________HOME_ROW_GACS_L______________	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define ______________HOME_ROW_GACS_L______________ /;"	d	file:
+______________HOME_ROW_GACS_R______________	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define ______________HOME_ROW_GACS_R______________ /;"	d	file:
+______________HOME_ROW_GACS_R______________	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define ______________HOME_ROW_GACS_R______________ /;"	d	file:
+_______________DEAD_HALF_ROW_______________	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^#define _______________DEAD_HALF_ROW_______________ /;"	d	file:
+_______________DEAD_HALF_ROW_______________	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^#define _______________DEAD_HALF_ROW_______________ /;"	d	file:
+auto_pointer_layer_timer	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^static uint16_t auto_pointer_layer_timer = 0;$/;"	v	typeref:typename:uint16_t	file:
+auto_pointer_layer_timer	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^static uint16_t auto_pointer_layer_timer = 0;$/;"	v	typeref:typename:uint16_t	file:
+auto_pointer_layer_timer	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^static uint16_t auto_pointer_layer_timer = 0;$/;"	v	typeref:typename:uint16_t	file:
+auto_pointer_layer_timer	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^static uint16_t auto_pointer_layer_timer = 0;$/;"	v	typeref:typename:uint16_t	file:
+charybdis_keymap_layers	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^enum charybdis_keymap_layers {$/;"	g	file:
+charybdis_keymap_layers	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^enum charybdis_keymap_layers {$/;"	g	file:
+charybdis_keymap_layers	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^enum charybdis_keymap_layers {$/;"	g	file:
+dilemma_keymap_layers	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^enum dilemma_keymap_layers {$/;"	g	file:
+dilemma_keymap_layers	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^enum dilemma_keymap_layers {$/;"	g	file:
+dilemma_keymap_layers	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^enum dilemma_keymap_layers {$/;"	g	file:
+encoder_map	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][NUM_DIRECTIONS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+encoder_map	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][NUM_DIRECTIONS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+keymaps	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+keymaps	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+keymaps	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+keymaps	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+keymaps	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+keymaps	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+keymaps	keyboards/bastardkb/scylla/keymaps/vendor/keymap.c	/^const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+keymaps	keyboards/bastardkb/skeletyl/keymaps/vendor/keymap.c	/^const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+keymaps	keyboards/bastardkb/tbkmini/keymaps/vendor/keymap.c	/^const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+layer_state_set_user	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^layer_state_t layer_state_set_user(layer_state_t state) {$/;"	f	typeref:typename:layer_state_t
+layer_state_set_user	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^layer_state_t layer_state_set_user(layer_state_t state) {$/;"	f	typeref:typename:layer_state_t
+layer_state_set_user	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^layer_state_t layer_state_set_user(layer_state_t state) {$/;"	f	typeref:typename:layer_state_t
+layer_state_set_user	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^layer_state_t layer_state_set_user(layer_state_t state) {$/;"	f	typeref:typename:layer_state_t
+layer_state_set_user	keyboards/bastardkb/dilemma/3x5_3/keymaps/vendor/keymap.c	/^layer_state_t layer_state_set_user(layer_state_t state) {$/;"	f	typeref:typename:layer_state_t
+layer_state_set_user	keyboards/bastardkb/dilemma/4x6_4/keymaps/vendor/keymap.c	/^layer_state_t layer_state_set_user(layer_state_t state) {$/;"	f	typeref:typename:layer_state_t
+matrix_scan_user	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^void matrix_scan_user(void) {$/;"	f	typeref:typename:void
+matrix_scan_user	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^void matrix_scan_user(void) {$/;"	f	typeref:typename:void
+matrix_scan_user	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^void matrix_scan_user(void) {$/;"	f	typeref:typename:void
+matrix_scan_user	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^void matrix_scan_user(void) {$/;"	f	typeref:typename:void
+pointing_device_task_user	keyboards/bastardkb/charybdis/3x5/keymaps/vendor/keymap.c	/^report_mouse_t pointing_device_task_user(report_mouse_t mouse_report) {$/;"	f	typeref:typename:report_mouse_t
+pointing_device_task_user	keyboards/bastardkb/charybdis/3x6/keymaps/vendor/keymap.c	/^report_mouse_t pointing_device_task_user(report_mouse_t mouse_report) {$/;"	f	typeref:typename:report_mouse_t
+pointing_device_task_user	keyboards/bastardkb/charybdis/4x6/keymaps/vendor/keymap.c	/^report_mouse_t pointing_device_task_user(report_mouse_t mouse_report) {$/;"	f	typeref:typename:report_mouse_t
+pointing_device_task_user	keyboards/bastardkb/dilemma/3x5_2/keymaps/vendor/keymap.c	/^report_mouse_t pointing_device_task_user(report_mouse_t mouse_report) {$/;"	f	typeref:typename:report_mouse_t
