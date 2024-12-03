@@ -16,6 +16,9 @@
  */
 #pragma once
 
+#undef DIODE_DIRECTION
+#define DIODE_DIRECTION COL2ROW
+
 #ifdef VIA_ENABLE
 /* VIA configuration. */
 #    define DYNAMIC_KEYMAP_LAYER_COUNT 4
