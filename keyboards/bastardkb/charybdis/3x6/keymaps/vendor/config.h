@@ -31,6 +31,7 @@
 #endif // __arm__
 
 /* Charybdis-specific features. */
+#define POINTING_DEVICE_DRIVER PMW3360
 
 #ifdef POINTING_DEVICE_ENABLE
 // Automatically enable the pointer layer when moving the trackball.  See also:
