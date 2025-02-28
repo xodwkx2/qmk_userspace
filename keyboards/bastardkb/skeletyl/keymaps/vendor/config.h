@@ -16,7 +16,8 @@
  */
 #pragma once
 
-#define DIODE_DIRECTION COL2ROW
+#undef DIODE_DIRECTION  // 기존 정의 삭제
+#define DIODE_DIRECTION COL2ROW  // 새로운 값으로 재정의
 
 #ifdef VIA_ENABLE
 /* VIA configuration. */
